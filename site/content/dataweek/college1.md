@@ -3,7 +3,7 @@ title: "Dataweek Hoorcollege 1: Joe Chrisman"
 date: 2018-09-20T16:49:45+02:00
 draft: false
 ---
-# Dataweek hoorcollege 1: Joe Chrisman van datadriven designagency Clever Frank
+## Dataweek hoorcollege 1: Joe Chrisman van datadriven designagency Clever Frank
 
 Tijdens het hoorcollege was mij opgevallen dat het meisje voor mij in de college zaal, nogal snel afgeleid was. Ik ben haar gedrag gaan turfen en heb dit in diverse categorieën verdeeld. 
 
