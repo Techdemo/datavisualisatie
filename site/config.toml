@@ -16,3 +16,8 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
   name = "Dataweek"
   url = "/dataweek/"
   weight= 0
+
+  [[menu.main]]
+  name = "Datavisualisatie"
+  url = "/datavis"
+  weight = 5
