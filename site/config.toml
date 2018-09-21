@@ -2,7 +2,7 @@ theme = "hyde"
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Data-visualisatie"
+title = "Information-design"
 
 
 # RSS, categories and tags disabled for an easy start
