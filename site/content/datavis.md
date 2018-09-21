@@ -3,7 +3,7 @@ title: "Eindopdracht datavisualisatie"
 date: 2018-09-20T16:49:45+02:00
 draft: false
 ---
-## Verzamelde data over 20 webdstrijden Fortnite
+## Verzamelde data over 20 wedstrijden Fortnite
 
 ### Wat is Fortnite?
 Fortnite is een online 'battle-royale' stijl spel wat voornamelijk online met andere tegenspelers, gespeeld kan worden. Op dit moment is Fortnite een enorm populair spel. 
