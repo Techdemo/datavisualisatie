@@ -21,3 +21,8 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
   name = "Datavisualisatie"
   url = "/datavis"
   weight = 5
+
+   [[menu.main]]
+  name = "Storytelling for Data"
+  url = "/storytelling"
+  weight = 10
