@@ -11,7 +11,6 @@ title = "Information-design"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 
-
   [[menu.main]]
   name = "Dataweek"
   url = "/dataweek/"
@@ -26,3 +25,10 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
   name = "Storytelling for Data"
   url = "/storytelling"
   weight = 10
+
+   [[menu.main]]
+  name = "Research for Data"
+  url = "/research"
+  weight = 15
+
+
