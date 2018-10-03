@@ -48,13 +48,13 @@ Om het onderzoek te beginnen besloot ik om gebieden in Rotterdam in kaart te bre
 
 ### Misdaadcijfers
 De gemeente Rotterdam heeft veel datasets online geplaatst die voor mij inzichtelijk waren. Met deze datasets kon ik aan de slag om de hoeveelheid misdrijven per stadsgebied in te zien. 
-Mijn belangrijkste databron hiervoor komt van [Rotterdam in cijfers](https://rotterdam.incijfers.nl/Jive)
+Mijn belangrijkste databron hiervoor komt van [Bron 2](https://rotterdam.incijfers.nl/Jive)
 
 In de dataset heb ik gekeken naar Vermogensdelicten (diefstal) en zakkenrollerij. Ik heb vermogensdelicten als uitgangspunt genomen omdatdit mes aan beide kanten snijdt: criminelen die zich voor doen als toeristen of toeristen die slachtoffer worden van een vermogensdelicten.
 
 Uiteraard is dit een vorm van een aanname dat dit de twee prominente criminele activiteiten zijn onder toeristen.
 
-### Toeristen [Bron 2](https://www.cbs.nl/nl-nl/nieuws/2017/34/toerismesector-blijft-groeien)
+### Toeristen [Bron 3](https://www.cbs.nl/nl-nl/nieuws/2017/34/toerismesector-blijft-groeien)
 ## Proces
 ### Zoekoperatoren
 - toerismecijfers + Rotterdam
@@ -82,7 +82,7 @@ Van wat ik op de website lees krijg ik de indruk dat de vaste partners alle info
 - Rotterdam Partners
 - UWV 
 
-Ik denk dat de bron voor een groot deel betrouwbaar is. Per partner is te zien welke bijdrage zij hebben geleverd aan de onderzoekscijfers. Wat mij opvalt is dat de Hogescholen hele sterke onderbouwingen leveren voor hun resultaten. De benodigde grafieken en bronnen worden bijgeleverd. Daartegen staan partners zoals de Rabobank en Ooms Makelaars. De Rabobank levert een artikel aan met cijfers van het CBS. Met de cijfers van het CSB is niet veel mis maar wat de Rabobank vervolgens met de cijfers doet en daarmee een beeld schetst is wel twijfelachtig. 
+Ik denk dat de bron voor een groot deel betrouwbaar is. Per partner is te zien welke bijdrage zij hebben geleverd aan de onderzoekscijfers. Wat mij opvalt is dat de Hogescholen hele sterke onderbouwingen leveren voor hun resultaten. De benodigde grafieken en bronnen worden bijgeleverd. Onderzoek is vaak zelf uitgevoerd en daardoor inzichtelijker. Daartegen staan partners zoals de Rabobank en Ooms Makelaars. De Rabobank levert een artikel aan met cijfers van het CBS. Met de cijfers van het CSB is niet veel mis maar wat de Rabobank vervolgens met de cijfers doet en daarmee een beeld schetst is wel twijfelachtig. 
 De gehele website laat weinig negatiefs zien over de kerncijfers van de Rotterdamse economie. Dat kan betekenen dat het momenteel heel erg goed gaat met de Rotterdamse economie of dat het beeld verkleurd wordt.
 
 
