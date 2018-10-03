@@ -4,19 +4,19 @@ date: 2018-09-20T16:49:45+02:00
 draft: false
 ---
 
-- [x] Inleiding
-- [X] Hypothese
-- [X] Onderzoeksvrag
-- [ ] Onderzoek
-    - [X] Gebieden
-    - [X] Misdaadcijfers
-    - [ ] Toeristen
+1. [Inleiding](#inleiding)
+- [X] [Hypothese](#hypothese)
+- [X] [Onderzoeksvraag](#onderzoeksvraag)
+- [ ] [Onderzoek](#onderzoek)
+    - [X] [Gebieden](#gebieden)
+    - [X] [Misdaadcijfers](#misdaadcijfers)
+    - [ ] [Toeristen](#toeristen)
 - [ ] Proces
     - [ ] Mindmap
     - [ ] Mogelijke onderwerpen
     - [ ] Zoekwoorden
     - [ ] Operatoren en filters
-- [ ] Bronnen
+- [ ] [Bronnen](#bronnen)
 
 
 ## Inleiding
@@ -36,7 +36,7 @@ In hoeverre heeft massatoerisme invloed op de criminaliteit in een stad.
 
 ## Onderzoek
 
-### Gebieden [Bron 1](https://evr010.nl/verkenning-2018/aantrekkelijk-voor-bezoekers-bewoners-ondernemers/aantrekkelijk-voor-toeristen-en-inwoners/)
+### Gebieden [evr010 - verkenning 2018](https://evr010.nl/verkenning-2018/aantrekkelijk-voor-bezoekers-bewoners-ondernemers/aantrekkelijk-voor-toeristen-en-inwoners/)
 Om het onderzoek te beginnen besloot ik om gebieden in Rotterdam in kaart te brengen, waar de meeste toeristen zich bevinden tijdens een bezoek aan de stad. Hieronder zie je een lijst van toeristische gebieden in de stad.
 
 - Centraal station/Provenierswijk 
@@ -50,13 +50,25 @@ Om het onderzoek te beginnen besloot ik om gebieden in Rotterdam in kaart te bre
 De gemeente Rotterdam heeft veel datasets online geplaatst die voor mij inzichtelijk waren. Met deze datasets kon ik aan de slag om de hoeveelheid misdrijven per stadsgebied in te zien. 
 Mijn belangrijkste databron hiervoor komt van [Rotterdam in cijfers](https://rotterdam.incijfers.nl/Jive)
 
-In de dataset heb ik gekeken naar Vermogensdelicten (diefstal) en zakkenrollerij. Ik heb vermogensdelicten als uitgangspunt genomen omdat dit mes aan beide kanten snijdt: criminelen die zich voor doen als toeristen of toeristen die slachtoffer worden van een vermogensdelicten.
+In de dataset heb ik gekeken naar Vermogensdelicten (diefstal) en zakkenrollerij. Ik heb vermogensdelicten als uitgangspunt genomen omdatdit mes aan beide kanten snijdt: criminelen die zich voor doen als toeristen of toeristen die slachtoffer worden van een vermogensdelicten.
 
-Uiteraard is dit een vorm van een aanname dat dit de twee prominente criminele activiteiten zijn onder toeristen. 
+Uiteraard is dit een vorm van een aanname dat dit de twee prominente criminele activiteiten zijn onder toeristen.
 
-### Toeristen
+### Toeristen [Bron 2](https://www.cbs.nl/nl-nl/nieuws/2017/34/toerismesector-blijft-groeien)
+## Proces
+### Zoekoperatoren
+- toerismecijfers + Rotterdam
+- Criminaliteitscijfers 2016...2018
+- "toerismecijfers blijft groeien"
+
+## Bronnen
+
+Bron 1) - **evr010 - verkenning 2018**
 
 
+Bron 2) - **Gemeente Rotterdam - Rotterdam in Cijfers**
 
+
+Bron 3) - **Cbs - toerismesector blijft groeien**
 
 
