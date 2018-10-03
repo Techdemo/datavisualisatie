@@ -64,9 +64,31 @@ Uiteraard is dit een vorm van een aanname dat dit de twee prominente criminele a
 ## Bronnen
 
 Bron 1) - **evr010 - verkenning 2018**
+De Evr brengt kerngegevens van de Rotterdamse economie in beeld. Als je ondernemer. beleidsmaker of student bent dan kun je op deze site terecht voor de nodige cijfers en onderzoeken. De EVR is opgezet door de gemeente Rotterdam. In samenwerking met partners,onderzoekers en wetenschappers. 
+De vaste samenwerkingspartners leveren cijfers, gegevens en onderzoeksresultaten aan. 
+
+Van wat ik op de website lees krijg ik de indruk dat de vaste partners alle informatie aanlevert en dat het EVR de website beheert. De informatie komt dus vanuit de partners. De vaste partners bestaan uit: 
+- Erasmus universiteit Rotterdam
+- Albeda college
+- CGI
+- Port of Rotterdam (Havenbedrijf Rotterdam)
+- Inholland hogeschool
+- Hogeschool Rotterdam
+- Kamer van Koophandel
+- Ooms Makelaars
+- R'damse Nieuwe 
+- Rabobank
+- Randstad
+- Rotterdam Partners
+- UWV 
+
+Ik denk dat de bron voor een groot deel betrouwbaar is. Per partner is te zien welke bijdrage zij hebben geleverd aan de onderzoekscijfers. Wat mij opvalt is dat de Hogescholen hele sterke onderbouwingen leveren voor hun resultaten. De benodigde grafieken en bronnen worden bijgeleverd. Daartegen staan partners zoals de Rabobank en Ooms Makelaars. De Rabobank levert een artikel aan met cijfers van het CBS. Met de cijfers van het CSB is niet veel mis maar wat de Rabobank vervolgens met de cijfers doet en daarmee een beeld schetst is wel twijfelachtig. 
+De gehele website laat weinig negatiefs zien over de kerncijfers van de Rotterdamse economie. Dat kan betekenen dat het momenteel heel erg goed gaat met de Rotterdamse economie of dat het beeld verkleurd wordt.
 
 
 Bron 2) - **Gemeente Rotterdam - Rotterdam in Cijfers**
+
+
 
 
 Bron 3) - **Cbs - toerismesector blijft groeien**
