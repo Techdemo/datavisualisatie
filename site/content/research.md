@@ -10,12 +10,12 @@ draft: false
 - [ ] [Onderzoek](#onderzoek)
     - [X] [Gebieden](#gebieden)
     - [X] [Misdaadcijfers](#misdaadcijfers)
-    - [ ] [Toeristen](#toeristen)
-- [ ] Proces
-    - [ ] Mindmap
+    - [X] [Toeristen](#toeristen)
+- [ ] [Proces](#Proces)
+    - [ ] [Mindmap](#mindmap)
     - [ ] Mogelijke onderwerpen
     - [ ] Zoekwoorden
-    - [ ] Operatoren en filters
+    - [ ] [Zoekoperatoren en filters](#zoekoperatoren)
 - [ ] [Bronnen](#bronnen)
 
 
@@ -60,6 +60,15 @@ Om een correlatie te vinden in toename van criminaliteit tussen 2016 en 2018 is 
 
 
 ## Proces
+
+### Mindmap
+![Mindmap Storytelling for data](https://github.com/Techdemo/datavisualisatie/blob/master/site/static/mindmap.jpg?raw=true "Mindmap")
+
+
+
+
+
+
 ### Zoekoperatoren
 - toerismecijfers + Rotterdam
 - Criminaliteitscijfers 2016...2018
@@ -69,9 +78,10 @@ Om een correlatie te vinden in toename van criminaliteit tussen 2016 en 2018 is 
 ## Bronnen
 
 Bron 1) - **evr010 - verkenning 2018**
-De Evr brengt kerngegevens van de Rotterdamse economie in beeld. Als je ondernemer. beleidsmaker of student bent dan kun je op deze site terecht voor de nodige cijfers en onderzoeken. De EVR is opgezet door de gemeente Rotterdam. In samenwerking met partners,onderzoekers en wetenschappers. 
-De vaste samenwerkingspartners leveren cijfers, gegevens en onderzoeksresultaten aan. 
+De Evr brengt kerngegevens van de Rotterdamse economie in beeld. Als je ondernemer. beleidsmaker of student bent dan kun je op deze site terecht voor de nodige cijfers en onderzoeken. De EVR is opgezet door de gemeente Rotterdam. In samenwerking met partners,onderzoekers en wetenschappers.
 
+**Wie brengt het cijfer?**
+De vaste samenwerkingspartners leveren cijfers, gegevens en onderzoeksresultaten aan. 
 Van wat ik op de website lees krijg ik de indruk dat de vaste partners alle informatie aanlevert en dat het EVR de website beheert. De informatie komt dus vanuit de partners. De vaste partners bestaan uit: 
 
 - Erasmus universiteit Rotterdam
@@ -88,8 +98,12 @@ Van wat ik op de website lees krijg ik de indruk dat de vaste partners alle info
 - Rotterdam Partners
 - UWV 
 
-Ik denk dat de bron voor een groot deel betrouwbaar is. Per partner is te zien welke bijdrage zij hebben geleverd aan de onderzoekscijfers. Wat mij opvalt is dat de Hogescholen hele sterke onderbouwingen leveren voor hun resultaten. De benodigde grafieken en bronnen worden bijgeleverd. Onderzoek is vaak zelf uitgevoerd en daardoor inzichtelijker. Daartegen staan partners zoals de Rabobank en Ooms Makelaars. De Rabobank levert een artikel aan met cijfers van het CBS. Met de cijfers van het CSB is niet veel mis maar wat de Rabobank vervolgens met de cijfers doet en daarmee een beeld schetst is wel twijfelachtig. 
+Ik denk dat de bron voor een groot deel betrouwbaar is. Per partner is te zien welke bijdrage zij hebben geleverd aan de onderzoekscijfers. 
+
+**Uit welke dataset komt het cijfer tevoorschijn?**
+Wat mij opvalt is dat de Hogescholen hele sterke onderbouwingen leveren voor hun resultaten. De benodigde grafieken en bronnen worden bijgeleverd. Onderzoek is vaak zelf uitgevoerd en daardoor inzichtelijker. Daartegen staan partners zoals de Rabobank en Ooms Makelaars. De Rabobank levert een artikel aan met cijfers van het CBS. Met de cijfers van het CSB is niet veel mis maar wat de Rabobank vervolgens met de cijfers doet en daarmee een beeld schetst is wel twijfelachtig. 
 De gehele website laat weinig negatiefs zien over de kerncijfers van de Rotterdamse economie. Dat kan betekenen dat het momenteel heel erg goed gaat met de Rotterdamse economie of dat het beeld verkleurd wordt.
+
 
 
 Bron 2) - **Gemeente Rotterdam - Rotterdam in Cijfers**
@@ -98,6 +112,9 @@ Rotterdam in Cijfers is een verzameling datasets over de stad, uitgebracht door 
 De onderwerpen zijn vrij divers en de cijfers zijn up to date. 
 
 Ik acht deze datasets betrouwbaar (afhankelijk van het onderwerp waar je op zoekt) omdat ik denk dat een gemeente er geen baat heeft om data te manipuleren. De data komt van bewoners van Rotterdam. Tijdens het inzien van de data kun je zelf bepalen hoe je data vormgeeft (lijngrafiek, staafdiagram etc). Je kunt handmatig variabelen naast elkaar zetten en vergelijken. 
+
+**Ontbreekt belangrijke informatie bij het cijfer?**
+Ligt er aan naar welke data je opzoek gaat. In mijn geval ben ik opzoek gegaan naar Criminaliteitscijfers. Je krijgt dan alleen de geregistreerde misdaden te zien. Er vindt ook genoeg misdaad plaats waarvan mensen geen aangifte doen. Uit een onderzoek van het [CBS](https://www.cbs.nl/nl-nl/achtergrond/2016/46/melding-en-aangifte-van-veelvoorkomende-criminaliteit) blijkt dat de aangiftebereidheid van burgers vanaf 2016 een dalende trend blijft.
 
 
 Bron 3) - **Cbs - toerismesector blijft groeien**
