@@ -88,7 +88,10 @@ De gehele website laat weinig negatiefs zien over de kerncijfers van de Rotterda
 
 Bron 2) - **Gemeente Rotterdam - Rotterdam in Cijfers**
 
+Rotterdam in Cijfers is een verzameling datasets over de stad, uitgebracht door de Gemeente Rotterdam.  
+De onderwerpen zijn vrij divers en de cijfers zijn up to date. 
 
+Ik acht deze datasets betrouwbaar (afhankelijk van het onderwerp waar je op zoekt) omdat ik denk dat een gemeente er geen baat heeft om data te manipuleren. De data komt van bewoners van Rotterdam. Tijdens het inzien van de data kun je zelf bepalen hoe je data vormgeeft (lijngrafiek, staafdiagram etc). Je kunt handmatig variabelen naast elkaar zetten en vergelijken. 
 
 
 Bron 3) - **Cbs - toerismesector blijft groeien**
