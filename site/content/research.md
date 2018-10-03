@@ -60,6 +60,7 @@ Uiteraard is dit een vorm van een aanname dat dit de twee prominente criminele a
 - toerismecijfers + Rotterdam
 - Criminaliteitscijfers 2016...2018
 - "toerismecijfers blijft groeien"
+- Criminaliteit+toerisme+rotterdam
 
 ## Bronnen
 
@@ -68,6 +69,7 @@ De Evr brengt kerngegevens van de Rotterdamse economie in beeld. Als je ondernem
 De vaste samenwerkingspartners leveren cijfers, gegevens en onderzoeksresultaten aan. 
 
 Van wat ik op de website lees krijg ik de indruk dat de vaste partners alle informatie aanlevert en dat het EVR de website beheert. De informatie komt dus vanuit de partners. De vaste partners bestaan uit: 
+
 - Erasmus universiteit Rotterdam
 - Albeda college
 - CGI
@@ -96,4 +98,7 @@ Ik acht deze datasets betrouwbaar (afhankelijk van het onderwerp waar je op zoek
 
 Bron 3) - **Cbs - toerismesector blijft groeien**
 
+De bron van het CBS laat vooral de groei van de toeristische sector in Nederland zien. De link leidt naar een artikel over toeristische bestedingen, toerisme kernindicatoren en logiesaccomodaties. 
+
+Alle cijfers komen uit onderzoeken van het CBS en ik acht het Cbs als een betrouwbare bron. Onderaan de pagina kun je de bronnen inzien via Statline. In Statline kun je de grafieken aanpassen naar welke data jij precies in wilt zien. 
 
