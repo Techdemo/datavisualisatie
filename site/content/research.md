@@ -55,6 +55,10 @@ In de dataset heb ik gekeken naar Vermogensdelicten (diefstal) en zakkenrollerij
 Uiteraard is dit een vorm van een aanname dat dit de twee prominente criminele activiteiten zijn onder toeristen.
 
 ### Toeristen [Bron 3](https://www.cbs.nl/nl-nl/nieuws/2017/34/toerismesector-blijft-groeien)
+
+Om een correlatie te vinden in toename van criminaliteit tussen 2016 en 2018 is het nodig om te bepalen wat de groei van toerisme is geweest in Rotterdam. De bron van het CBS laat de groei in toerisme zien voor heel Nederland. In combinatie van de bron van het EVR is er data te extraheren over de toerisme cijfers in Rotterdam.
+
+
 ## Proces
 ### Zoekoperatoren
 - toerismecijfers + Rotterdam
