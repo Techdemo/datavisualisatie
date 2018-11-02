@@ -7,4 +7,4 @@ draft: false
 
 
 ![Mijn gemoedstoestand tijdens het volgen van een Tech vak aan Cmd](https://raw.githubusercontent.com/Techdemo/datavisualisatie/master/site/static/marvel.png?raw=true)
-![Hoevaak komt een hoofdpersonage voor in een Marvel film en, in welke film](https://raw.githubusercontent.com/Techdemo/datavisualisatie/4fd381bd767aa9ab12e1e86d8e3bcfd7ce1166a1/site/static/conjuctuur.png?raw=true)
+![Hoevaak komt een hoofdpersonage voor in een Marvel film en, in welke film](https://raw.githubusercontent.com/Techdemo/datavisualisatie/master/site/static/Conjunctuur.png)
