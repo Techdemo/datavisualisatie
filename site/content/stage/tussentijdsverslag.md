@@ -4,6 +4,8 @@ date: 2018-10-04T20:34
 draft: false
 ---
 
+# Tussentijds stageverslag Marcel Fleuren.
+
 1.  [Inleiding](#inleiding)
 2.  [Bubblefish](#bubblefish)
 3.  [Stagebegeleider](#stagebegeleider)
@@ -42,36 +44,36 @@ Bij Bubblefish ga ik als front-end developer stage lopen. Dit houdt in dat ik:
 
 ### Begrijpen en kaderen
 
-_“Tijdens mijn stage periode wil ik leren om mij te kunnen concentreren op alleen datgene wat echt nodig is voor het product.Ik raak snel afgeleid en daardoor wil ik teveel doen in de tijd die voor mij beschikbaar is. Ik wil begrijpen wat nodig is en dat kunnen kaderen in de tijd die ik beschikbaar heb.”_
+Tijdens mijn stage periode wil ik leren om mij te kunnen concentreren op alleen datgene wat echt nodig is voor het product.Ik raak snel afgeleid en daardoor wil ik teveel doen in de tijd die voor mij beschikbaar is. Ik wil begrijpen wat nodig is en dat kunnen kaderen in de tijd die ik beschikbaar heb.
 
 ### Conceptualiseren
 
-_“Gedurende mijn stage wil ik kijken waar ik (voor mij) nieuwe technieken kan toepassen in producten/projecten.”_
+Gedurende mijn stage wil ik kijken waar ik (voor mij) nieuwe technieken kan toepassen in producten/projecten.
 
 ### Verbeelden en maken
 
-_“Gedurende mijn stage wil ik leren om mijn ideeën concreet te maken en deze voldoende te kunnen overbrengen op mijn collega’s.”_
+Gedurende mijn stage wil ik leren om mijn ideeën concreet te maken en deze voldoende te kunnen overbrengen op mijn collega’s.
 
 ### Evalueren
 
-_“Gedurende mijn stage wil ik leren om kritisch te kunnen kijken naar mijn eigen werk en opzoek te gaan naar feedback van mijn collega’s.”_
+Gedurende mijn stage wil ik leren om kritisch te kunnen kijken naar mijn eigen werk en opzoek te gaan naar feedback van mijn collega’s.
 
 ### Multidisciplinair samenwerken
 
-_“Tijdens mijn stageperiode wil ik leren om met mensen samen te werken en te communiceren van andere disciplines, binnen het kader van de opdrachten.“_
+Tijdens mijn stageperiode wil ik leren om met mensen samen te werken en te communiceren van andere disciplines, binnen het kader van de opdrachten.
 
 ### Manifesteren en presenteren
 
-_“Gedurende mijn stageperiode wil ik leren om mijn concrete ideeën te kunnen onderbouwen naar mijn collega’s en/of klanten.”_
+Gedurende mijn stageperiode wil ik leren om mijn concrete ideeën te kunnen onderbouwen naar mijn collega’s en/of klanten.
 
 ### Initiëren, organiseren en regisseren
 
-_“Tijdens mijn stageperiode wil ik leren werken met de methodes/processen waar het stagebedrijf ook mee werkt. Denk aan projectmanagement software maar ook de zelf opgelegde processen op het team, binnen het bedrijf.”_
+Tijdens mijn stageperiode wil ik leren werken met de methodes/processen waar het stagebedrijf ook mee werkt. Denk aan projectmanagement software maar ook de zelf opgelegde processen op het team, binnen het bedrijf.
 
 ### Ontwikkelen en reflecteren
 
-_“Gedurende mijn stageperiode wil ik leren om te kunnen reflecteren op mijn eigen werk. Daarnaast wil ik leren om mijn eigen producten steeds in kleine sprints te verbeteren. Om zo voor mijzelf het overzicht te bewaren binnen een project/product.”_
+Gedurende mijn stageperiode wil ik leren om te kunnen reflecteren op mijn eigen werk. Daarnaast wil ik leren om mijn eigen producten steeds in kleine sprints te verbeteren. Om zo voor mijzelf het overzicht te bewaren binnen een project/product.
 
 ### Onderzoeken
 
-_“Tijdens mijn stageperiode wil ik leren om bevindingen te kunnen halen uit onderzoek om deze vervolgens toe te passen in mijn eigen werk.“_
+Tijdens mijn stageperiode wil ik leren om bevindingen te kunnen halen uit onderzoek om deze vervolgens toe te passen in mijn eigen werk.
