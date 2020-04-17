@@ -14,7 +14,7 @@ draft: false
 7. [Misdaadcijfers](#Misdaadcijfers)
 8. [Toename Toeristen in cijfers](#Toename-Toeristen-in-cijfers)
 9. [Proces](#Proces)
-10. [Mindmap](#mindmap)[
+10. [Mindmap](#mindmap)
 11. [Zoekoperatoren en filters](#zoekoperatoren)
 12. [Bronnen](#bronnen)
 
