@@ -217,35 +217,23 @@ bron 3) - __Geregistreerde misdrijven; soort misdrijkf, wijk, buurt en jaarcijfe
 
 De cijfers uit de dataset worden geleverd door het Centraal Bureau voor de statistiek. Deze zijn inzichtelijk in de databank van het CBS zelf genaamd Statline. Binnen Statline is het mogelijk om te grasduinen in de hoeveelheden datasets die zij tot hun beschikking hebben en openbaar hebben gemaakt.
 
-De bron beslaat de dataset over Geregistreerde criminaliteit; soort misdrijf, regio. 
-
-- ontbreekt belangrijke informatie 
-- welke definities worden gebruikt om de cijfers aan te duiden
-- is het cijfer logisch
-- is er wel of geen oorzakelijk verbond?
-- Cijfers hebben context nodig
-- Hoe feitelijk zijn de cijfers
+De bron beslaat de dataset over Geregistreerde criminaliteit; soort misdrijf, regio. De cijfers worden in simpele cijfers uitgedrukt. Dus geen kengetallen of schalen. Aangezien de dataset voortkomt vanuit het cbs is het aannemelijk dat de cijfers zeer feitelijk zijn. 
 
 CBS. (2020c). *Geregistreerde misdrijven; soort misdrijf, wijk, buurt, jaarcijfers* [Dataset]. Geraadpleegd van https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb
 
 
 
-bron 4) - Toerismesector blijft groeien
+bron 4) - __Toerismesector blijft groeien__
 
-- wie brengt het cijfer	
-- uit welk dataset komt het cijfer vandaan
-- ontbreekt belangrijke informatie 
-- welke definities worden gebruikt om de cijfers aan te duiden
-- is het cijfer logisch
-- is er wel of geen oorzakelijk verbond?
-- Cijfers hebben context nodig
-- Hoe feitelijk zijn de cijfers
+De cijfers uit het artikel worden geleverd door het Centraal Bureau voor de Statistiek. Deze zijn inzichtelijk in de databank van het CBS zelf. Echter is deze bron meer in de vorm van een artikel en geeft een samenvattend verhaal van de cijfers die er al zijn. 
+
+Een artikel geschreven rondom een dataset, aangevuld met grafische representaties van de data geeft de interpretatie van de data meer body. Er worden verklaringen gegeven voor pieken of trends in de data. Dit geeft het geheel wat meer context. 
 
 Centraal Bureau voor de Statistiek. (2017, 21 augustus). *Toerismesector blijft groeien*. Geraadpleegd op 12 april 2020, van https://www.cbs.nl/nl-nl/nieuws/2017/34/toerismesector-blijft-groeien
 
 
 
-bron 5) - Nieuwe toerisme visie Rotterdam
+bron 5) - __Nieuwe toerisme visie Rotterdam__
 
 - wie brengt het cijfer	
 - uit welk dataset komt het cijfer vandaan
