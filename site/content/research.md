@@ -5,18 +5,24 @@ draft: false
 ---
 
 1. [Inleiding](#inleiding)
-- [X] [Hypothese](#hypothese)
-- [X] [Onderzoeksvraag](#onderzoeksvraag)
-- [x] [Onderzoek](#onderzoek)
-    - [X] [Gebieden](#gebieden)
-    - [X] [Misdaadcijfers](#misdaadcijfers)
-    - [X] [Toeristen](#toeristen)
-- [x] [Proces](#Proces)
-    - [x] [Mindmap](#mindmap)
-    - [ ] Mogelijke onderwerpen
-    - [ ] Zoekwoorden
-    - [ ] [Zoekoperatoren en filters](#zoekoperatoren)
-- [ ] [Bronnen](#bronnen)
+2. [Hypothese](#hypothese)
+
+3. [Onderzoeksvraag](#onderzoeksvraag)
+
+4. [Onderzoek](#onderzoek)
+
+   - [Gebieden waar toeristen zich voornamelijk bevinden in de stad.](#gebieden-waar-toeristen-zich-voornamelijk-bevinden-in-de-stad)
+
+   - [Soorten misdaad](#Soorten-misdaad)
+
+   - [Misdaadcijfers](#Misdaadcijfers)
+   - [Toename Toeristen in cijfers](#Toename-Toeristen-in-cijfers)
+
+5. [Proces](#Proces)
+   - [Mindmap](#mindmap)
+   - [Zoekoperatoren en filters](#zoekoperatoren)
+
+6. [Bronnen](#bronnen)
 
 
 ## Inleiding
@@ -38,7 +44,9 @@ In hoeverre heeft massatoerisme invloed op de toename van criminaliteit in een s
 
 ## Onderzoek
 
-### Gebieden waar toeristen waar toeristen zich voornamelijk bevinden.
+Om mijn onderzoeksvraag te beantwoorden heb ik een aantal deelvragen opgesteld. Hier heb ik geprobeerd antwoorden op te vinden door deskresearch uit te voeren. Mijn eerste verwachting was dat ik een duidelijk verband zou zien in de cijfers zelf. Dus een toenamelijk van toerisme in de stad staat gelijk aan een toename in het aantal misdaadcijfers. Echter kwam ik er achter dat dit zeker niet het geval is, wat ik niet verwacht had te vinden was dat er onderscheid gemaakt wordt in het soort toerisme en het soort misdrijf. Met andere woorden: een toename van een toerisme in het algemeen, niet synoniem staat voor een toename van misdaad in het algemeen. 
+
+### Gebieden waar toeristen zich voornamelijk bevinden in de stad.
 
 Om het onderzoek te beginnen besloot ik om gebieden in Rotterdam in kaart te brengen, waar de meeste toeristen zich bevinden tijdens een bezoek aan de stad. Hieronder zie je een lijst van toeristische gebieden in de stad. 
 
@@ -164,7 +172,8 @@ gebruikte zoekoperatoren:
 
 ### Conclusie
 
-Naar aanleiding van de bovenstaande deskresearch zou ik mijzelf graag willen aanraden om mijn hypothese en onderzoeksvraag bij te stellen. Toename van criminaliteit is lastig te wijden aan de toename van massatoerisme. In dezelfde periode dat er een toename plaatsvindt zien we dat misdaadcijfers juist dalen. Echter, dat misdaadcijfers dalen kan aan veel andere factoren liggen. Wat je wel kan doen is kijken naar 
+Naar aanleiding van de bovenstaande deskresearch zou ik mijzelf graag willen aanraden om mijn hypothese en onderzoeksvraag bij te stellen. Toename van mobiliteit van mensen zou wel een indicator kunnen zijn voor een toename van criminaliteit. Of zelf nieuwe vormen laten aannemen van misdaden. 
+Toename van criminaliteit is lastig te wijden aan de toename van massatoerisme. In dezelfde periode dat er een toename plaatsvindt zien we dat misdaadcijfers juist dalen. Echter, dat misdaadcijfers dalen kan aan veel andere factoren en ontwikkelingen liggen binnen een sociaal economisch klimaat. Mijn advies zou zijn om meer te gaan inzoomen op een specifiek soort misdrijf bij een toename van mobiliteit in Europa. 
 
 ## Bronnen analyse
 
@@ -199,42 +208,23 @@ Braun, E., Haaren, J. V., van Oort, F., & Steijn, M. (2018, 9 februari). *Aantre
 
 
 
-Bron 2) - Totaal logiesaccomodatie per provincie 2015 - 2019
+Bron 2) - __Totaal logiesaccomodatie per provincie 2015 - 2019__
 
-- wie brengt het cijfer	
-- uit welk dataset komt het cijfer vandaan
-- ontbreekt belangrijke informatie 
-- welke definities worden gebruikt om de cijfers aan te duiden
-- is het cijfer logisch
-- is er wel of geen oorzakelijk verbond?
-- Cijfers hebben context nodig
-- Hoe feitelijk zijn de cijfers
+De cijfers uit de dataset worden geleverd door het Centraal Bureau voor de statistiek. Deze zijn inzichtelijk in de databank van het CBS zelf genaamd Statline. Binnen Statline is het mogelijk om te grasduinen in de hoeveelheden datasets die zij tot hun beschikking hebben en openbaar hebben gemaakt. 
 
-
+Deze dataset heeft als titel: Logiesaccommodaties; gasten, nachten, woonland, logiesvorm, regio. Zoals de titel al benoemd is het mogelijk om het aantal logiesaccomodaties in te zien en te kunnen filteren op de bovenstaande parameters. Hoewel deze dataset zeer compleet is zou ik graag nog meer data willen zien over Airbnb accomodaties. Deze beslaan inmiddels een groot percentage van logiesaccomodaties in de moderne stat. De cijfers worden uitgedrukt in kengetallen. Ieder cijfer x 1000 is het aantal gasten. Dit is in mijn opzicht een duidelijke manier om eenheden in uit te drukken. Een groei of een afname is voor mij op deze manier inzichtelijk. 
+Wat te zien is, is een tabel met cijfers waar uit op te maken is wat de toename is van het gebruik van logiesaccomodaties in bepaalde regio's in het land. Echter, context ontbreekt hier enorm. Wat context aan dit verhaal zou toevoegen is om te achterhalen wat het gedrag is van de mensen die gebruiken maken van de logiesaccomodaties. Hoeveel geld geven ze uit, zitten er forensen tussen? De dataset vult het verhaal van toenemende massatoerisme niet aan hierdoor. 
 
 CBS. (2020a). *CBS Statline* [Totaal logiesaccomodatie per provincie 2015 - 2019]. Geraadpleegd van https://opendata.cbs.nl/#/CBS/nl/dataset/82059NED/table
 
 
 
-Bron 3) - Logiesaccomodaties: gasten, nachten, woonland, logiesvorm op regio
+bron 3) - __Geregistreerde misdrijven; soort misdrijkf, wijk, buurt en jaarcijfers__
 
-- wie brengt het cijfer	
-- uit welk dataset komt het cijfer vandaan
-- ontbreekt belangrijke informatie 
-- welke definities worden gebruikt om de cijfers aan te duiden
-- is het cijfer logisch
-- is er wel of geen oorzakelijk verbond?
-- Cijfers hebben context nodig
-- Hoe feitelijk zijn de cijfers
+De cijfers uit de dataset worden geleverd door het Centraal Bureau voor de statistiek. Deze zijn inzichtelijk in de databank van het CBS zelf genaamd Statline. Binnen Statline is het mogelijk om te grasduinen in de hoeveelheden datasets die zij tot hun beschikking hebben en openbaar hebben gemaakt.
 
-CBS. (2020b). *CBS Statline* [Logiesaccommodaties; gasten, nachten, woonland, logiesvorm, regio Gewijzigd op: 10 april 2020]. Geraadpleegd van https://opendata.cbs.nl/#/CBS/nl/dataset/82059NED/table
+De bron beslaat de dataset over Geregistreerde criminaliteit; soort misdrijf, regio. 
 
-
-
-bron 4) - Geregistreerde misdrijven; soort misdrijkf, wijk, buurt en jaarcijfers
-
-- wie brengt het cijfer	
-- uit welk dataset komt het cijfer vandaan
 - ontbreekt belangrijke informatie 
 - welke definities worden gebruikt om de cijfers aan te duiden
 - is het cijfer logisch
@@ -246,7 +236,7 @@ CBS. (2020c). *Geregistreerde misdrijven; soort misdrijf, wijk, buurt, jaarcijfe
 
 
 
-bron 5) - Toerismesector blijft groeien
+bron 4) - Toerismesector blijft groeien
 
 - wie brengt het cijfer	
 - uit welk dataset komt het cijfer vandaan
@@ -261,7 +251,7 @@ Centraal Bureau voor de Statistiek. (2017, 21 augustus). *Toerismesector blijft 
 
 
 
-bron 6) - Nieuwe toerisme visie Rotterdam
+bron 5) - Nieuwe toerisme visie Rotterdam
 
 - wie brengt het cijfer	
 - uit welk dataset komt het cijfer vandaan
@@ -278,7 +268,7 @@ Gemeente Rotterdam. (2020b, 13 maart). *Nieuwe visie op toerisme | Rotterdam.nl*
 
 
 
-bron 7) - Politie academie kennis onderzoek
+bron 6) - Politie academie kennis onderzoek
 
 - wie brengt het cijfer	
 - uit welk dataset komt het cijfer vandaan
@@ -293,7 +283,7 @@ Klerks, P., & Kop, N. (2007). *Https://www.politieacademie.nl/kennisenonderzoek/
 
 
 
-bron 8) - Wat voor toerisme wil Rotterdam?
+bron 7) - Wat voor toerisme wil Rotterdam?
 
 - wie brengt het cijfer	
 - uit welk dataset komt het cijfer vandaan
@@ -308,7 +298,7 @@ Kooyman, M. (2019, 17 mei). *Wat voor toerisme wil Rotterdam?* Geraadpleegd op 1
 
 
 
-bron 9) - De impact van het toenemende toerisme op de veiligheid en leefbaarheid in Amsterdam
+bron 8) - De impact van het toenemende toerisme op de veiligheid en leefbaarheid in Amsterdam
 
 - wie brengt het cijfer	
 - uit welk dataset komt het cijfer vandaan
@@ -323,7 +313,7 @@ Mietus, H. (2016). *De impact van het toenemende toerisme op de veiligheid en le
 
 
 
-bron 10) - Meerjarige groei toerisme in Rotterdam houdt aan
+bron 9) - Meerjarige groei toerisme in Rotterdam houdt aan
 
 - wie brengt het cijfer	
 - uit welk dataset komt het cijfer vandaan
