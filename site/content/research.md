@@ -7,12 +7,12 @@ draft: false
 1. [Inleiding](#inleiding)
 - [X] [Hypothese](#hypothese)
 - [X] [Onderzoeksvraag](#onderzoeksvraag)
-- [ ] [Onderzoek](#onderzoek)
+- [x] [Onderzoek](#onderzoek)
     - [X] [Gebieden](#gebieden)
     - [X] [Misdaadcijfers](#misdaadcijfers)
     - [X] [Toeristen](#toeristen)
-- [ ] [Proces](#Proces)
-    - [ ] [Mindmap](#mindmap)
+- [x] [Proces](#Proces)
+    - [x] [Mindmap](#mindmap)
     - [ ] Mogelijke onderwerpen
     - [ ] Zoekwoorden
     - [ ] [Zoekoperatoren en filters](#zoekoperatoren)
@@ -20,43 +20,126 @@ draft: false
 
 
 ## Inleiding
-Dit document bevat mijn onderzoek over gevolgen van toenemende massatoerisme. Ik wil informatie verzamelen over toename in toerisme en misdaadcijfers. Hiertussen zoek ik verbanden en correlaties. In de afgelopen drie jaar is er een explosieve toename van toeristen in Rotterdam. In mijn onderzoek zal ik dus kijken naar de jaren 2015 t/m 2018.
+Dit document bevat mijn onderzoek over gevolgen van toenemende massatoerisme. Ik wil informatie verzamelen over toename in toerisme en misdaadcijfers. Hiertussen zoek ik verbanden en correlaties. In de afgelopen vijf jaar is er een explosieve toename van toeristen in Rotterdam. In mijn onderzoek zal ik dus kijken naar de jaren 2015 t/m 2019.
 
 ## Hypothese
 _Toenemende massatoerisme heeft invloed op de toename van criminaliteit in de stad._
 
 **onderwerp:** is er een correlatie in misdaadcijfers te vinden tussen gebieden in de stad waar veel toeristen zich bevinden en gebieden waar weinig toeristen zich bevinden?
 
-* Wat zijn de misdaadcijfers in Rotterdam tussen 2015 en 2018?
+* Wat zijn de misdaadcijfers in Rotterdam tussen 2015 en 2019?
 * Wat zijn de gebieden in de stad waar toeristen zich voornamelijk bevinden?
 * Hoeveel toeristen bevinden zich gemiddeld in Rotterdam?
+* Hoe groot is de toename van het aantal toeristen in Rotterdam tussen 2015 en 2019?
+* Welke vormen van misdaad zijn inherent aan de aanwezigheid van toeristen. 
 
 ## Onderzoeksvraag
-In hoeverre heeft massatoerisme invloed op de criminaliteit in een stad.
+In hoeverre heeft massatoerisme invloed op de toename van criminaliteit in een stad.
 
 ## Onderzoek
 
-### Gebieden [evr010 - verkenning 2018](https://evr010.nl/verkenning-2018/aantrekkelijk-voor-bezoekers-bewoners-ondernemers/aantrekkelijk-voor-toeristen-en-inwoners/)
-Om het onderzoek te beginnen besloot ik om gebieden in Rotterdam in kaart te brengen, waar de meeste toeristen zich bevinden tijdens een bezoek aan de stad. Hieronder zie je een lijst van toeristische gebieden in de stad.
+### Gebieden waar toeristen waar toeristen zich voornamelijk bevinden.
 
-- Centraal station/Provenierswijk
+Om het onderzoek te beginnen besloot ik om gebieden in Rotterdam in kaart te brengen, waar de meeste toeristen zich bevinden tijdens een bezoek aan de stad. Hieronder zie je een lijst van toeristische gebieden in de stad. 
+
+- Provenierswijk
 - Stadsdriehoek (Blaak en Maritiem kwartier)
 - Museum kwartier
 - Erasmusbrug
 - Dijkzicht
 - Katendrecht
 
+In het rapport 'Nieuwe toerisme visie Rotterdam' uit 2020 wordt aangegeven dat de Gemeente Rotterdam actief bezig is met het spreiden over toerisme over de gehele stad. Dat wil zeggen, toestroom van toerisme blijft niet blijven hangen in de binnenstad. Toeristen komen vooral voor datgene wat de stad uniek maakt. Kunst, cultuur en architectuur. De bovengenoemde wijken in Rotterdam bevatten deze authentieke bezienswaardigheden. 
+
+Dat komt overeen met de cijfers van evr010 uit 2018. Daarin werd aangegeven dat Rotterdam vooral aantrekkelijk is bij de zogenaamde _frontrunners_. Dit is het type toerist die graag voorop loopt in het uitzoeken van nieuwe reisbestemming en voornamelijk interesse heeft in authentieke bezienswaardigheden die een stad te bieden heeft. Tevens zien we dat er nog een archetype reiziger Rotterdam gevonden heeft als populare reisbestemming; namelijk de zakelijke reiziger. Deze reiziger bezoekt de stad met zakelijke doeleinden, zoals bijvoorbeeld het bezoeken van een congres of het bijwonen van vergaderingen. Volgens cijfers van het cbs zijn bijna de helft van alle hotelovernachtingen in 2018 gedaan door zakelijke reizigers. 
+
+Bron 1: [evr010 - verkenning 2018](https://evr010.nl/verkenning-2018/aantrekkelijk-voor-bezoekers-bewoners-ondernemers/aantrekkelijk-voor-toeristen-en-inwoners/)
+
+Bron 2: [wat voor toerisme wil Rotterdam](https://www.nrc.nl/nieuws/2019/05/17/wat-voor-toerisme-wil-rotterdam-a3960352)
+
+Bron 3: [Meerjarige groei toerisme in Rotterdam houdt aan](https://evr010.nl/meerjarige-groei-toerisme-in-rotterdam-houdt-aan/)
+
+Bron 4: [Nieuwe visie op toerisme](https://www.rotterdam.nl/nieuws/nieuwe-toerismevisie/)
+
+Gebruikte zoekoperatoren: 
+
+- "toerisme gebieden rotterdam"
+- rapport toerisme rotterdam 2015...2019
+- toerisme rotterdam 2015...2019
+
+### Soorten misdaad
+
+In de eerste instantie wilde ik kijken naar een steiging in het aantal misdaden gepleegd tussen 2015 en 2019. Echter, er zijn veel verschillende vormen van criminaliteit. Zeker niet alle vormen van misdaad zijn relevant voor de toerisme sector. Daarom ga ik eerst kijken naar de soorten misdaad die vaak in verband worden gebracht met een toenemende toerisme stroom. Zodat ik later specifieker kan zoeken op het soort misdaad. 
+
+Voor de stad Rotterdam zijn er moeilijk bronnen te vinden die toerisme in verband brengen met specifieke vormen van misdaad. Echter, kunnen we hierin wel kijken naar andere steden in Nederland die dit onderzoek wel hebben uitgevoerd. 
+
+De politie eenheid Amsterdam heeft een onderzoek uitgevoerd in 2016 met als titel 'De impact van het toenemende toerisme op de veiligheid en leefbaarheid van Amsterdam'. Een quote van oud burgemeester Eberhard van der Laan luidt als volgt: 
+_Toeristen zijn vaker slachtoffer van criminaliteit dan reguliere inwoners van de stad. De verwachting is dan ook dat bij stijging van het aantal bezoekers, het aantal delicten zal stijgen.'_
+
+In het rapport wordt benadrukt dat het onderzoek is gericht op de toerist als slachtoffer van een incident. Uit het rapport komt naar voren dat dit de vijf meest voorkomende misdaden zijn waarbij de toerist slachtoffer van is. 
+
+1. Zakkenrollerij en overige eenvoudige diefstallen
+2. Vermissing goederen
+3. Diefstal uit/vanaf personenauto
+4. straatroof
+5. Diefstal/inbraak hotel/pension.
+
+Dit zijn vooralsnog criminele activiteiten van relatief kleine aard. Een toename in deze activiteiten plus een toename in de aantallen toeristen zou in verband gebracht kunnen worden met elkaar. Maar, een toename in cijfers op twee verschillende domeinen hoeven niet perse een verband te betekenen. Een toename in criminele activiteiten kunnen simpelweg ook een gevolg zijn van een toename in toeristen omdat deze nog steeds in verhouding staan met elkaar. Veel spannender is om te ontdekken of criminaliteit zich ook ontwikkelt en deze verhouding uit elkaar zou kunnen trekken. 
+
+Een interessante invalshoek vond ik via een onderzoeksrapport van het Andersson Elffers Felix onderzoeksinstituut. De hypothese van het onderzoek was dat criminaliteit bij een grote toerisme stroom niet alleen toeneemt maar, dat de vorm van criminaliteit verandert. Dankzij de toegenomen mobiliteit en het verdwijnen van landsgrenzen. Criminele activiteiten krijgen ruimte om boven het micro niveau uit te groeien. Denk aan import en export van drugs en mensensmokkel. Maar ook de toename van cybercriminaliteit is een gevolg van toenemende mobiliteit van de europese bevolking. 
+
+Bron 1: [De impact van het toenemende toerisme op de veiligheid en leefbaarheid van Amsterdam.](https://www.oudestadt.nl/wp-content/uploads/2016/10/rapport-politie.pdf)
+
+Bron 2: [Onderzoek naar toegenomen mobiliteit en veranderingen in criminaliteit](https://repository.tudelft.nl/view/wodc/uuid:53a3a70b-591f-4015-bc10-fd661f55e9cd)
+
+Het ontbreekt aan data waarbij er kan worden vastgesteld dat een inwoner slachtoffer is geworden van criminele activiteiten, veroorzaakt door de toerist. Verder geeft het onderzoeksrapport aan dat het moeilij is om cijfers te verzamelen die toerisme en criminaliteit met elkaar in verband brengen. Dit komt omdat, wanneer een toerist slachtoffer is geworden van een vorm van kleine criminaliteit, om diverse redenen geen aangifte doet bij de politie in Nederland. De voornaamste redenen zijn schaamte en te van korte duur in het land aanwezig te zijn. 
+
+Gebruikte zoekoperatoren: 
+
+- "criminaliteit onder toeristen"
+- "criminaliteit onder toeristen google scholar"
+
 ### Misdaadcijfers
-De gemeente Rotterdam heeft veel datasets online geplaatst die voor mij inzichtelijk waren. Met deze datasets kon ik aan de slag om de hoeveelheid misdrijven per stadsgebied in te zien.
-Mijn belangrijkste databron hiervoor komt van [Bron 2](https://rotterdam.incijfers.nl/Jive)
 
-In de dataset heb ik gekeken naar Vermogensdelicten (diefstal) en zakkenrollerij. Ik heb vermogensdelicten als uitgangspunt genomen omdatdit mes aan beide kanten snijdt: criminelen die zich voor doen als toeristen of toeristen die slachtoffer worden van een vermogensdelicten.
+Om inzage te krijgen in de toename in het aantal misdrijven kunnen we dankbaar gebruik maken van de talloze open datasets. In deze datasets worden er veel vormen van criminaliteit vastgelegd echter, heb ik er voor gekozen om te filteren op de misdrijven die zijn opgesomt onder 'Soorten misdaad'. Het filteren op deze misdrijven maakt mijn zoekopdracht wat specifieker. 
 
-Uiteraard is dit een vorm van een aanname dat dit de twee prominente criminele activiteiten zijn onder toeristen.
+Op Statline van het CBS kunnen we filteren op soorten misdaad. Hierbij heb ik gekeken naar deze vormen van misdrijven:
 
-### Toeristen [Bron 3](https://www.cbs.nl/nl-nl/nieuws/2017/34/toerismesector-blijft-groeien)
+1. Diefstal/verduistering en inbraak
+2. Diefstal en inbraak met geweld
+3. Diefstal en inbraak zonder geweld
+4. oplichting
+5. Flessentrekkerij
+6. vernieling aan een auto
 
-Om een correlatie te vinden in toename van criminaliteit tussen 2016 en 2018 is het nodig om te bepalen wat de groei van toerisme is geweest in Rotterdam. De bron van het CBS laat de groei in toerisme zien voor heel Nederland. In combinatie van de bron van het EVR is er data te extraheren over de toerisme cijfers in Rotterdam.
+Deze misdrijven kwamen het meest overeen met de misdrijven waarvan toeristen vaak slachtoffer zijn. Wat opvallend is in de data die hieruit voortkomt is dat het aantal gevallen 'oplichting' enorm is gestegen in de periode van 2015 tot en met 2018. Alle andere vormen van misdrijven zijn juist gedaald in deze periode.  
+
+Misdaadcijfers ansich zijn goed terug te vinden in verschillende datasets.  Maar ook het fenomeen 'toemende mobiliteit' in combinatie met misdaadcijfers is iets waar ik op wil gaan zoeken. Volgens het kennisonderzoeks rapport wat te vinden is in de digitale mediatheek op politieacademie.nl is een toename van inkomende uitgaande toerisme een feit. En kent het negatieve bijwerkingen als vrouwenhandel, mensensmokkel en (kinder)sekstoerisme. Ook worden Nederlandse vijftigplussers in het buitenland als een makkelijke prooi voor berovingen gezien. 
+
+bron 1: [CBS Statline Geregistreerde criminaliteit; soort misdrijf, regio](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb)
+
+bron 2: [Maatschappelijke trends en criminaliteitsrelevante factoren](https://www.politieacademie.nl/kennisenonderzoek/kennis/mediatheek/PDF/44293.pdf)
+
+Gebruikte zoekoperatoren: 
+
+- misdaadcijfers rotterdam 2015...2018
+- misdaadcijfers rotterdam filetype:pdf
+- toenemene mobiliteit misdaadcijfers filetype:pdf
+
+### Toename Toeristen in cijfers
+
+Over het aantal toeristen die de stad weten te bereiken heeft het CBS een dataset beschikbaar. Deze toont aan dat er  een toename is in het aantal toeristen die de stad weten te bereiken. Toerismecijfers zijn voor heel Nederland tussen 2015 en 2019 gegroeid. De internationale populariteit van de stad Rotterdam draagt daar aan bij. De zakelijke reiziger voert volgens het onderzoek de overhand in Rotterdam.
+
+Als we de bronnen van evr naast deze cijfers gaan leggen zien we een opvallende trend; Toerisme in Rotterdam betekent niet automatisch dat een toerist vanuit het buitenland komt. Er heerst een trend van Nederlandse mensen die binnen eigen land op vakantie gaan of een dagje er op uit trekken. 
+
+bron 1: [Toename in het aantal logiesaccomodaties](https://opendata.cbs.nl/#/CBS/nl/dataset/82059NED/table) 
+
+Bron 2: [Toerisme blijft groeien](https://www.cbs.nl/nl-nl/nieuws/2017/34/toerismesector-blijft-groeien)
+
+gebruikte zoekoperatoren: 
+
+- "toerisme rotterdam cbs"
+- toename toerismecijfers rotterdam 2015...2019
 
 
 ## Proces
@@ -65,17 +148,25 @@ Om een correlatie te vinden in toename van criminaliteit tussen 2016 en 2018 is 
 ![Mindmap Storytelling for data](https://github.com/Techdemo/datavisualisatie/blob/master/site/static/mindmap.jpg?raw=true "Mindmap")
 
 
-
-
-
-
 ### Zoekoperatoren
 - toerismecijfers + Rotterdam
 - Criminaliteitscijfers 2016...2018
 - "toerismecijfers blijft groeien"
 - Criminaliteit+toerisme+rotterdam
+- "criminaliteit onder toeristen"
+- "criminaliteit onder toeristen google scholar"
+- "toerisme gebieden rotterdam"
+- rapport toerisme rotterdam 2015...2019
+- toerisme rotterdam 2015...2019
+- misdaadcijfers rotterdam 2015...2018
+- misdaadcijfers rotterdam filetype:pdf
+- toenemene mobiliteit misdaadcijfers filetype:pdf
 
-## Bronnen
+### Conclusie
+
+Naar aanleiding van de bovenstaande deskresearch zou ik mijzelf graag willen aanraden om mijn hypothese en onderzoeksvraag bij te stellen. Toename van criminaliteit is lastig te wijden aan de toename van massatoerisme. In dezelfde periode dat er een toename plaatsvindt zien we dat misdaadcijfers juist dalen. Echter, dat misdaadcijfers dalen kan aan veel andere factoren liggen. Wat je wel kan doen is kijken naar 
+
+## Bronnen analyse
 
 Bron 1) - **evr010 - verkenning 2018**
 De Evr brengt kerngegevens van de Rotterdamse economie in beeld. Als je ondernemer. beleidsmaker of student bent dan kun je op deze site terecht voor de nodige cijfers en onderzoeken. De EVR is opgezet door de gemeente Rotterdam. In samenwerking met partners,onderzoekers en wetenschappers.
@@ -104,37 +195,143 @@ Ik denk dat de bron voor een groot deel betrouwbaar is. Per partner is te zien w
 Wat mij opvalt is dat de Hogescholen hele sterke onderbouwingen leveren voor hun resultaten. De benodigde grafieken en bronnen worden bijgeleverd. Onderzoek is vaak zelf uitgevoerd en daardoor inzichtelijker. Daartegen staan partners zoals de Rabobank en Ooms Makelaars. De Rabobank levert een artikel aan met cijfers van het CBS. Met de cijfers van het CSB is niet veel mis maar wat de Rabobank vervolgens met de cijfers doet en daarmee een beeld schetst is wel twijfelachtig.
 De gehele website laat weinig negatiefs zien over de kerncijfers van de Rotterdamse economie. Dat kan betekenen dat het momenteel heel erg goed gaat met de Rotterdamse economie of dat het beeld verkleurd wordt.
 
+Braun, E., Haaren, J. V., van Oort, F., & Steijn, M. (2018, 9 februari). *Aantrekkelijk voor toeristen én inwoners*. Geraadpleegd op 12 april 2020, van https://evr010.nl/verkenning-2018/aantrekkelijk-voor-bezoekers-bewoners-ondernemers/aantrekkelijk-voor-toeristen-en-inwoners/
 
 
-Bron 2) - **Gemeente Rotterdam - Rotterdam in Cijfers**
 
-Rotterdam in Cijfers is een verzameling datasets over de stad, uitgebracht door de Gemeente Rotterdam.  
-De onderwerpen zijn vrij divers en de cijfers zijn up to date.
+Bron 2) - Totaal logiesaccomodatie per provincie 2015 - 2019
 
-Ik acht deze datasets betrouwbaar (afhankelijk van het onderwerp waar je op zoekt) omdat ik denk dat een gemeente er geen baat heeft om data te manipuleren. De data komt van bewoners van Rotterdam. Tijdens het inzien van de data kun je zelf bepalen hoe je data vormgeeft (lijngrafiek, staafdiagram etc). Je kunt handmatig variabelen naast elkaar zetten en vergelijken.
+- wie brengt het cijfer	
+- uit welk dataset komt het cijfer vandaan
+- ontbreekt belangrijke informatie 
+- welke definities worden gebruikt om de cijfers aan te duiden
+- is het cijfer logisch
+- is er wel of geen oorzakelijk verbond?
+- Cijfers hebben context nodig
+- Hoe feitelijk zijn de cijfers
 
-**Ontbreekt belangrijke informatie bij het cijfer?**
-Ligt er aan naar welke data je opzoek gaat. In mijn geval ben ik opzoek gegaan naar Criminaliteitscijfers. Je krijgt dan alleen de geregistreerde misdaden te zien. Er vindt ook genoeg misdaad plaats waarvan mensen geen aangifte doen. Uit een onderzoek van het [CBS](https://www.cbs.nl/nl-nl/achtergrond/2016/46/melding-en-aangifte-van-veelvoorkomende-criminaliteit) blijkt dat de aangiftebereidheid van burgers vanaf 2016 een dalende trend blijft.
 
 
-Bron 3) - **Cbs - toerismesector blijft groeien**
+CBS. (2020a). *CBS Statline* [Totaal logiesaccomodatie per provincie 2015 - 2019]. Geraadpleegd van https://opendata.cbs.nl/#/CBS/nl/dataset/82059NED/table
 
-De bron van het CBS laat vooral de groei van de toeristische sector in Nederland zien. De link leidt naar een artikel over toeristische bestedingen, toerisme kernindicatoren en logiesaccomodaties.
 
-Alle cijfers komen uit onderzoeken van het CBS en ik acht het Cbs als een betrouwbare bron. Onderaan de pagina kun je de bronnen inzien via Statline. In Statline kun je de grafieken aanpassen naar welke data jij precies in wilt zien.
 
-Bron 4) - **Ombudsman slaat alarm**
+Bron 3) - Logiesaccomodaties: gasten, nachten, woonland, logiesvorm op regio
 
-Marijnissen, H. A. N. S. (2018, 28 juli). Ombudsman slaat alarm: 'Het centrum van Amsterdam is 's nachts een wetteloze jungle'. Geraadpleegd op 4 oktober 2018, van https://www.trouw.nl/samenleving/ombudsman-slaat-alarm-het-centrum-van-amsterdam-is-s-nachts-een-wetteloze-jungle-%7Ea939a839/
+- wie brengt het cijfer	
+- uit welk dataset komt het cijfer vandaan
+- ontbreekt belangrijke informatie 
+- welke definities worden gebruikt om de cijfers aan te duiden
+- is het cijfer logisch
+- is er wel of geen oorzakelijk verbond?
+- Cijfers hebben context nodig
+- Hoe feitelijk zijn de cijfers
 
-Bron 5) - **Mobiel Banditisme in Winkelgebieden**
+CBS. (2020b). *CBS Statline* [Logiesaccommodaties; gasten, nachten, woonland, logiesvorm, regio Gewijzigd op: 10 april 2020]. Geraadpleegd van https://opendata.cbs.nl/#/CBS/nl/dataset/82059NED/table
 
-Bool, G. I. S. È. L. E. (2014, september). Mobiel banditisme in winkelgebieden [Master Scriptie]. Geraadpleegd op 4 oktober 2018, van https://hetccv.nl/fileadmin/Bestanden/Onderwerpen/Mobiele_bendes_barriremodel/Documenten/Mobiel_banditisme_in_winkelgebieden_gemeente_Rotterdam/onderzoek-mobiel-banditisme-in-winkelgebieden-van-rotterdam.pdf
 
-Bron 6) - **Wijkprofiel Rotterdam**
 
-https://wijkprofiel.rotterdam.nl/nl/2018/rotterdam
+bron 4) - Geregistreerde misdrijven; soort misdrijkf, wijk, buurt en jaarcijfers
 
-Bron 7) - **Rotterdamse agenten krijgen een cursus 'hoe pak ik een zakkenroller' van Amsterdamse agenten.**
+- wie brengt het cijfer	
+- uit welk dataset komt het cijfer vandaan
+- ontbreekt belangrijke informatie 
+- welke definities worden gebruikt om de cijfers aan te duiden
+- is het cijfer logisch
+- is er wel of geen oorzakelijk verbond?
+- Cijfers hebben context nodig
+- Hoe feitelijk zijn de cijfers
 
-Rotterdamse agenten krijgen cursus 'hoe pak ik een zakkenroller' van Amsterdamse politie [Persbericht]. (2018, 26 september). Geraadpleegd op 4 oktober 2018, van https://www.at5.nl/index.php/artikelen/186732/rotterdamse-agenten-krijgt-cursus-zakkenroller-pakken-van-amsterdamse-politie
+CBS. (2020c). *Geregistreerde misdrijven; soort misdrijf, wijk, buurt, jaarcijfers* [Dataset]. Geraadpleegd van https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb
+
+
+
+bron 5) - Toerismesector blijft groeien
+
+- wie brengt het cijfer	
+- uit welk dataset komt het cijfer vandaan
+- ontbreekt belangrijke informatie 
+- welke definities worden gebruikt om de cijfers aan te duiden
+- is het cijfer logisch
+- is er wel of geen oorzakelijk verbond?
+- Cijfers hebben context nodig
+- Hoe feitelijk zijn de cijfers
+
+Centraal Bureau voor de Statistiek. (2017, 21 augustus). *Toerismesector blijft groeien*. Geraadpleegd op 12 april 2020, van https://www.cbs.nl/nl-nl/nieuws/2017/34/toerismesector-blijft-groeien
+
+
+
+bron 6) - Nieuwe toerisme visie Rotterdam
+
+- wie brengt het cijfer	
+- uit welk dataset komt het cijfer vandaan
+- ontbreekt belangrijke informatie 
+- welke definities worden gebruikt om de cijfers aan te duiden
+- is het cijfer logisch
+- is er wel of geen oorzakelijk verbond?
+- Cijfers hebben context nodig
+- Hoe feitelijk zijn de cijfers
+
+Gemeente Rotterdam. (2020a). *Https://www.rotterdam.nl/nieuws/nieuwe-toerismevisie/Visie-Toerisme_DEF_toegankelijk.pdf*. Geraadpleegd van https://www.rotterdam.nl/nieuws/nieuwe-toerismevisie/Visie-Toerisme_DEF_toegankelijk.pdf
+
+Gemeente Rotterdam. (2020b, 13 maart). *Nieuwe visie op toerisme | Rotterdam.nl*. Geraadpleegd op 12 april 2020, van https://www.rotterdam.nl/nieuws/nieuwe-toerismevisie/
+
+
+
+bron 7) - Politie academie kennis onderzoek
+
+- wie brengt het cijfer	
+- uit welk dataset komt het cijfer vandaan
+- ontbreekt belangrijke informatie 
+- welke definities worden gebruikt om de cijfers aan te duiden
+- is het cijfer logisch
+- is er wel of geen oorzakelijk verbond?
+- Cijfers hebben context nodig
+- Hoe feitelijk zijn de cijfers
+
+Klerks, P., & Kop, N. (2007). *Https://www.politieacademie.nl/kennisenonderzoek/kennis/mediatheek/PDF/44293.pdf*. Geraadpleegd van https://www.politieacademie.nl/kennisenonderzoek/kennis/mediatheek/PDF/44293.pdf
+
+
+
+bron 8) - Wat voor toerisme wil Rotterdam?
+
+- wie brengt het cijfer	
+- uit welk dataset komt het cijfer vandaan
+- ontbreekt belangrijke informatie 
+- welke definities worden gebruikt om de cijfers aan te duiden
+- is het cijfer logisch
+- is er wel of geen oorzakelijk verbond?
+- Cijfers hebben context nodig
+- Hoe feitelijk zijn de cijfers
+
+Kooyman, M. (2019, 17 mei). *Wat voor toerisme wil Rotterdam?* Geraadpleegd op 12 april 2020, van https://www.nrc.nl/nieuws/2019/05/17/wat-voor-toerisme-wil-rotterdam-a3960352
+
+
+
+bron 9) - De impact van het toenemende toerisme op de veiligheid en leefbaarheid in Amsterdam
+
+- wie brengt het cijfer	
+- uit welk dataset komt het cijfer vandaan
+- ontbreekt belangrijke informatie 
+- welke definities worden gebruikt om de cijfers aan te duiden
+- is het cijfer logisch
+- is er wel of geen oorzakelijk verbond?
+- Cijfers hebben context nodig
+- Hoe feitelijk zijn de cijfers
+
+Mietus, H. (2016). *De impact van het toenemende toerisme op de veiligheid en leefbaarheid in Amsterdam*. Geraadpleegd van https://www.oudestadt.nl/wp-content/uploads/2016/10/rapport-politie.pdf
+
+
+
+bron 10) - Meerjarige groei toerisme in Rotterdam houdt aan
+
+- wie brengt het cijfer	
+- uit welk dataset komt het cijfer vandaan
+- ontbreekt belangrijke informatie 
+- welke definities worden gebruikt om de cijfers aan te duiden
+- is het cijfer logisch
+- is er wel of geen oorzakelijk verbond?
+- Cijfers hebben context nodig
+- Hoe feitelijk zijn de cijfers
+
+V. (2020, 11 maart). *Meerjarige groei toerisme in Rotterdam houdt aan*. Geraadpleegd op 12 april 2020, van https://evr010.nl/meerjarige-groei-toerisme-in-rotterdam-houdt-aan/
