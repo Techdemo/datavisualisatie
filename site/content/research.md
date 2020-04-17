@@ -8,21 +8,15 @@ draft: false
 2. [Hypothese](#hypothese)
 
 3. [Onderzoeksvraag](#onderzoeksvraag)
-
 4. [Onderzoek](#onderzoek)
-
-   - [Gebieden waar toeristen zich voornamelijk bevinden in de stad.](#gebieden-waar-toeristen-zich-voornamelijk-bevinden-in-de-stad)
-
-   - [Soorten misdaad](#Soorten-misdaad)
-
-   - [Misdaadcijfers](#Misdaadcijfers)
-   - [Toename Toeristen in cijfers](#Toename-Toeristen-in-cijfers)
-
-5. [Proces](#Proces)
-   - [Mindmap](#mindmap)
-   - [Zoekoperatoren en filters](#zoekoperatoren)
-
-6. [Bronnen](#bronnen)
+5. [Gebieden waar toeristen zich voornamelijk bevinden in de stad.](#gebieden-waar-toeristen-zich-voornamelijk-bevinden-in-de-stad)
+6. [Soorten misdaad](#Soorten-misdaad)
+7. [Misdaadcijfers](#Misdaadcijfers)
+8. [Toename Toeristen in cijfers](#Toename-Toeristen-in-cijfers)
+9. [Proces](#Proces)
+10. [Mindmap](#mindmap)[
+11. [Zoekoperatoren en filters](#zoekoperatoren)
+12. [Bronnen](#bronnen)
 
 
 ## Inleiding
